@@ -32,27 +32,27 @@ The Web Application involves:
 
 ### 2 - Wikipedia Agent Implementation
 - Used `WikipediaAPIWrapper` to get response from wikipedia if the answer is not found in vector stores created
+![wiki demo](https://github.com/Pratik872/Multi-AI-Agent-RAG-Chatbot/blob/main/readme%20resources/wiki%20demo.png)
 
-- Prompts would be passed to this model using Groq API
-
-### 3 - Creating a prompt for LLM
+### 3 - Designing a prompt for LLM
 - Created a prompt template using `Langchain`
 
 - Defined the prompt to LLM using prompt template
 
-### 4 - Getting transcripts for the video/website using external tools and `Langchain`
-- Fetching the URL uploaded by user through streamlit
-
-- Used this URL to get transcripts through `YoutubeLoader` and `UnstructuredURLLoader` in `Langchain` and converting those to data which needs to be passed to the LLM
+### 4 - Langgraph Nodes for multi-AI Agent
+![nodes](https://github.com/Pratik872/Multi-AI-Agent-RAG-Chatbot/blob/main/readme%20resources/nodes.png)
 
 
 ### Sample Working
+- RAG demo
+![RAG](https://github.com/Pratik872/Multi-AI-Agent-RAG-Chatbot/blob/main/readme%20resources/demo1.png)
 
-![Demo](https://github.com/Pratik872/Youtube-Video-Summarizer/blob/main/readme%20resources/app%20sample.png)
+- Wikipedia demo
+![Wiki](https://github.com/Pratik872/Multi-AI-Agent-RAG-Chatbot/blob/main/readme%20resources/demo2.png)
 
 
 ### Built with 🛠️
-- Packages/Repo : Langchain, Jupyter, Streamlit, Groq
+- Packages/Repo : Langchain, Jupyter, Groq, LangGraph
 
 - Coded on : Jupter Notebook (modelling), VSCode(building application)
 
