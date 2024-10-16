@@ -1,5 +1,0 @@
-{
-  "clientId": "znwOShXOytGcMjSobhyKpBqX",
-  "secret": "RZxP9Cwd25i,ZMA2YwJcz,c6cpjShNpArD-ijvztIGsP_doalzTCj3xxxyNiejDd8.thTAS3Ho3ucC,+AOx0Zw0hMTt-RMsmQiLm.zPH9HSRwR-K.6ECf26FepqbLyD8",
-  "token": "AstraCS:znwOShXOytGcMjSobhyKpBqX:fe7b919b10b09038bf030a60223b636a23b0a64084a65061ec19c8ec1d9d3afd"
-}
