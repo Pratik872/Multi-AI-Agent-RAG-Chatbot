@@ -12,8 +12,6 @@
 
 ## Methodology
 
-![App Demo](https://github.com/Pratik872/Youtube-Video-Summarizer/blob/main/readme%20resources/app%20demo.png)
-
 The Web Application involves:
 - RAG Agent - Loading the webpages and storing their embedding vectors into vector stores
 
